@@ -44,3 +44,22 @@ body{
 .meaning-container{
     display: none;
 }
+
+/* Media queries for responsiveness */
+ @media screen and (max-width: 600px) {
+                    .container {
+                        padding: 10px;
+                    }
+        
+                    .heading {
+                        font-size: 20px;
+                    }
+        
+                    .input {
+                        font-size: 14px;
+                    }
+        
+                    .info-text {
+                        font-size: 12px;
+                    }
+                }
