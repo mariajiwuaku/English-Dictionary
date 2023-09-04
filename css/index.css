@@ -33,7 +33,7 @@ body{
 
 .input{
     height: 53px;
-    width: 300px;
+    width: 50%;
     background-color: rgba(212, 212, 244, 0.6);
     border-color: rgba(212, 212, 244, 0.4);
     font-size: 16px;
